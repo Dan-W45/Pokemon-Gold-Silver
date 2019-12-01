@@ -1,0 +1,14 @@
+format:
+level('level',door location, door location, tilmap coords y,tilmap coords y, tilmap coords x,tilmap coords x)
+
+
+bedroom_data ('bedroom',700,0, 0,10, 0,15)
+downstairs_data ('downstairs',900,0, 0,10, 0,15)
+new_bark_town_data ('new_bark_town',900,0, 0,37, 31,60)
+
+
+THIS WILL NOT WORK FOR MULTIPLE DOORS
+
+
+bedroom door tiles
+bedroom door spawns
